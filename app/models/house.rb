@@ -1,4 +1,5 @@
-class House < ApplicationRecord
 
+class House < ApplicationRecord
+    
 
 end
